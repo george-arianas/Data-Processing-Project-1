@@ -26,6 +26,7 @@ k = 6, trials = 50,000,000, nonce, hash, and seconds elapsed in picture
 (3 points) Run the program on GCP to solve the case k = 7. Provide xS, its hash value, the total time elapsed, and the number of trials. Describe your cluster's configuration (number of machines, number/type of cores, etc.) and your process for estimating the number of trials needed in order to find the nonce.
 
 k = 7, trials = 100,000,000, nonce, hash, and seconds elapsed in picture
+![alt text](https://github.com/george-arianas/Data-Processing-Project-1/blob/main/k7.jpg)
 
 The cluster configuration is as follows:
 ![alt text](https://github.com/george-arianas/Data-Processing-Project-1/blob/main/cluster%20config.jpg)
