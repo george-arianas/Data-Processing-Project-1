@@ -34,3 +34,10 @@ The cluster configuration is as follows:
 (3 points) Modify one line of code in src/main/scala/project_1/main.scala so that the program generates the potential nonce from 1 to n (the number of trials) instead of randomly.
 Discuss whether or not this is more efficient than the randomized approach.
 
+This is the original code for the random nonce, which we modified:
+![alt text](https://github.com/george-arianas/Data-Processing-Project-1/blob/main/original%20nonce.jpg)
+
+This is the modified code, generating a nonce starting from 1:
+![alt text](https://github.com/george-arianas/Data-Processing-Project-1/blob/main/modified%20nonce.jpg)
+
+This is the result when we ran the program for k=6:
