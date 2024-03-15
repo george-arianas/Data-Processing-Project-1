@@ -16,9 +16,13 @@ k = 2, trials = 1000, string and hash in picture
 ![alt text](https://github.com/george-arianas/Data-Processing-Project-1/blob/main/k2.jpg)
 
 k = 3, trials = 10000, string and hash in picture
+![alt text](https://github.com/george-arianas/Data-Processing-Project-1/blob/main/k3.jpg)
 
 k = 4, trials = 10000, string and hash in picture
+![alt text](https://github.com/george-arianas/Data-Processing-Project-1/blob/main/k4.jpg)
 
 k = 5, trials = 10,000,000, string and hash in picture
+![alt text](https://github.com/george-arianas/Data-Processing-Project-1/blob/main/k5.jpg)
 
 k = 6, trials = 50,000,000, string and hash in picture
+![alt text](https://github.com/george-arianas/Data-Processing-Project-1/blob/main/k6.jpg)
