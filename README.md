@@ -1,7 +1,4 @@
 
-(3 points) Modify one line of code in src/main/scala/project_1/main.scala so that the program generates the potential nonce from 1 to n (the number of trials) instead of randomly.
-Discuss whether or not this is more efficient than the randomized approach.
-
 # Large Scale Data Processing: Project 1
 Name and EagleId1: George Arianas 50277148
 <br> Name and EagleId2: Nathan French 44545498
@@ -30,4 +27,10 @@ k = 6, trials = 50,000,000, nonce, hash, and seconds elapsed in picture
 
 k = 7, trials = 100,000,000, nonce, hash, and seconds elapsed in picture
 
+The cluster configuration is as follows:
+![alt text](https://github.com/george-arianas/Data-Processing-Project-1/blob/main/cluster%20config.jpg)
+
+## Question 3
+(3 points) Modify one line of code in src/main/scala/project_1/main.scala so that the program generates the potential nonce from 1 to n (the number of trials) instead of randomly.
+Discuss whether or not this is more efficient than the randomized approach.
 
