@@ -37,7 +37,10 @@ Discuss whether or not this is more efficient than the randomized approach.
 This is the original code for the random nonce, which we modified:
 ![alt text](https://github.com/george-arianas/Data-Processing-Project-1/blob/main/original%20nonce.jpg)
 
-This is the modified code, generating a nonce starting from 1:
-![alt text](https://github.com/george-arianas/Data-Processing-Project-1/blob/main/modified%20nonce.jpg)
+his is the modified code, generating a nonce starting from 1:
+<br>![alt text](https://github.com/george-arianas/Data-Processing-Project-1/blob/main/modified%20nonce.jpg)
 
 This is the result when we ran the program for k=6:
+![alt text](https://github.com/george-arianas/Data-Processing-Project-1/blob/main/sequential%20code.jpg)
+
+The different ways of generating the potential nonce are close in time elapsed, but the original approach of a random nonce is faster.
